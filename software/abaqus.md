@@ -14,6 +14,12 @@ ABAQUS
 ![](img/abaqus/download/abaqus0.png)
 ![](img/abaqus/download/abaqus1.png)
 
+Σας συνιστούμε να αποθηκεύσετε τα αρχεία σε κάποιο κατάλογο και να τα αποσυμπιέσετε σε αυτόν όποτε να δημιουργηθούν δύο κατάλογοι. Στον ένα κατάλογο `AM_DOC_SIM_EstPrd.AllOS` βρίσκεται το Documentation ενώ στο άλλο κατάλογο `AM_SIM_Abaqus.AllOS` βρίσκονται τα προγράμματα.
+
+Hint: Ξεκινήστε με την εγκατάσταση του Documentation γιατί αυτό είναι απαραίτητο για την αποτελεσματική πρόσβαση στη βοήθεια μέσα από το πρόγραμμα.
+
+![](img/abaqus/download/abaqus2.png)
+![](img/abaqus/download/abaqus3.png)
 
 Documentation
 -------------
