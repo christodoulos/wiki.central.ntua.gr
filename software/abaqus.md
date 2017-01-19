@@ -1,3 +1,5 @@
+υπό κατασκευή ...
+
 ABAQUS
 ======
 
@@ -27,7 +29,7 @@ Hint: Ξεκινήστε με την εγκατάσταση του Documentation
 
 ![](img/abaqus/download/abaqus3.png)
 
-Η εγκατάσταση είναι μια απλή σειρά αποδοχής των εξορισμού επιλογών εκτός από την 5η εικόνα όπου θα πρέπει να συμπληρώσετε το όνομα του υπολογιστή σας ή τη λέξη `localhost`.
+Η εγκατάσταση είναι μια απλή σειρά αποδοχής των εξορισμού επιλογών εκτός από την 5η εικόνα όπου θα πρέπει να συμπληρώσετε το όνομα του υπολογιστή σας.
 
 ![](img/abaqus/doc/abaqus0.png)
 ![](img/abaqus/doc/abaqus1.png)
@@ -40,7 +42,7 @@ Hint: Ξεκινήστε με την εγκατάσταση του Documentation
 ![](img/abaqus/doc/abaqus8.png)
 ![](img/abaqus/doc/abaqus9.png)
 
-To Documentation θα είναι προσβάσιμο μέσω κάποιου webbrowser στην τοπική πόρτα `2180` ή στο `http://localhost:2180/v2016/index.html`:
+To Documentation θα είναι προσβάσιμο μέσω κάποιου webbrowser στην τοπική πόρτα `2180`:
 
 ![](img/abaqus/doc/abaqus10.png)
 
