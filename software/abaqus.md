@@ -11,6 +11,10 @@ ABAQUS
 
 Τα ίδια αρχεία μπορούν να χρησιμοποιηθούν για εγκατάσταση τόσο σε πλατφόρμα Windows όσο και σε πλατφόρμα Linux.
 
+![](img/download/abaqus0.png)
+![](img/download/abaqus1.png)
+
+
 Documentation
 -------------
 
