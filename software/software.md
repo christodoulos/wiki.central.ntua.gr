@@ -53,10 +53,10 @@ Network License
 |Πρόγραμμα|License Server|Πόρτες|Συνολικές Άδειες|
 |-|-|-|-|
 |[Matlab](matlab.md)|`licenses.central.ntua.gr`|27001|120|
-|Ansys|`licenses.central.ntua.gr`|1055, 2325|26 Research|
+|[Ansys](ansys.md)|`licenses.central.ntua.gr`|1055, 2325|26 Research|
 ||||148 HPC|
 ||||300 Teaching|
-|Abaqus|`licenses.central.ntua.gr`|27000|Base License|
+|[Abaqus](abaqus.md)|`licenses.central.ntua.gr`|27000|Base License|
 ||||3+1 cae|
 ||||64+5 analysis|
 |MSC|`licenses.central.ntua.gr`|1700| 49 FEA & Motion Bundle|
