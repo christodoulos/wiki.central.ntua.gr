@@ -7,6 +7,7 @@
  * [Γενικές πληροφορίες](software/software.md)
  * [ANSYS](software/ansys.md)
  * [Abaqus](software/abaqus.md)
+ * [COMSOL](software/comsol.md)
  * [Matlab](software/matlab.md)
 
 [HPC]()
